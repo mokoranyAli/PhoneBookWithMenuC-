@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1545403200 source:f:\iti intake 39\introduction to programming\codeblocs program\phonebookwithmenu\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<fstream>
+
+1545413128 source:c:\users\elmahask\desktop\new folder (3)\phonebookwithmenu\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<iostream>
+	<fstream>
+
+1545409654 source:c:\users\elmahask\desktop\new folder (3)\phonebookwithmenu\gotoxy.c
+	<windows.h>
+
+1545487937 source:c:\users\elmahask\desktop\new folder (3)\phone book ds_project\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<iostream>
+	<fstream>
+
